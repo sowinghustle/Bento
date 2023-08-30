@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: "Go to Sleep!",
 
   // Layout
-  bentoLayout: "bento", // 'bento', 'lists', 'buttons'
+  bentoLayout: "buttons", // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: "8877072a48109d91a4bfcca41914725d", // Write here your API Key
@@ -61,7 +61,7 @@ const CONFIG = {
       id: "2",
       name: "Mail",
       icon: "mail",
-      link: "https://mail.protonmail.com/",
+      link: "https://gmail.com/",
     },
     {
       id: "3",
@@ -139,20 +139,20 @@ const CONFIG = {
       id: "1",
       links: [
         {
-          name: "Inspirational",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "/mu/",
+          link: "https://boards.4channel.org/mu/",
         },
         {
-          name: "Classic",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Rate Your Music",
+          link: "https://rateyourmusic.com/",
         },
         {
-          name: "Oldies",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Last.fm",
+          link: "https://open.spotify.com/playlist/37i9dQZF1EQoHemmkbENDL?si=6ea2cd88a60b4f3b",
         },
         {
-          name: "Rock",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Spotify",
+          link: "https://open.spotify.com",
         },
       ],
     },
