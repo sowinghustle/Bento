@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: "Guilherme",
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: "Go to Sleep!",
 
   // Layout
-  bentoLayout: "buttons", // 'bento', 'lists', 'buttons'
+  bentoLayout: "Lists", // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: "8877072a48109d91a4bfcca41914725d", // Write here your API Key
