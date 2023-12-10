@@ -65,15 +65,15 @@ const CONFIG = {
     },
     {
       id: "3",
-      name: "Todoist",
-      icon: "trello",
-      link: "https://todoist.com",
+      name: "twitter",
+      icon: "twitter",
+      link: "https://twitter.com/",
     },
     {
       id: "4",
-      name: "Calendar",
-      icon: "calendar",
-      link: "https://calendar.google.com/calendar/r",
+      name: "Amazon",
+      icon: "shopping-bag",
+      link: "https://amazon.com/",
     },
     {
       id: "5",
@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: "6",
-      name: "Odysee",
-      icon: "youtube",
-      link: "https://odysee.com/",
+      name: "bot",
+      icon: "bot",
+      link: "https://discord.com/app",
     },
   ],
 
@@ -157,7 +157,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: "coffee",
+      icon: "ghost",
       id: "2",
       links: [
         {
@@ -165,8 +165,8 @@ const CONFIG = {
           link: "https://www.linkedin.com",
         },
         {
-          name: "Dribbble",
-          link: "https://www.dribbble.com",
+          name: "Github",
+          link: "https://github.com/",
         },
         {
           name: "Trello",
